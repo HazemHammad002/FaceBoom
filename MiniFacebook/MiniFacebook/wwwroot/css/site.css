@@ -116,28 +116,29 @@ input:hover {
     font-weight: bold;
 }
 
-    .nav-x a {
-        color: #f2f2f0 !important;
-        background-color: #111f4d;
-        padding: 5px 11px;
-        border: 2px solid #111f4d;
-        margin-left: 10px;
-        margin-bottom: 5px;
+.ref {
+    color: #f2f2f0 !important;
+    background-color: #111f4d;
+    padding: 5px 11px;
+    border: 2px solid #111f4d;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+    .ref:hover {
+        color: white !important;
+        border: 2px solid #272e4f;
+        background-color: black;
     }
 .nav-btn {
     font-weight: bold;
     color: black !important;
 }
-.nav-x a:hover {
-    color: white !important;
-    border: 2px solid #272e4f;
-    background-color: black;
-}
-
 .nav-btn:hover {
     color: grey !important;
 }
-
+.logo{
+    width:200px;
+}
 .logoutbtn {
     color: #f2f2f0 !important;
     background-color: #111f4d;
