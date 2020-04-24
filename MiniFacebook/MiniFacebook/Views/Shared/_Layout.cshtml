@@ -21,7 +21,7 @@
             <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light nav-x py-3 ">
                 <div class="container">
 
-                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="images/logo.png" alt="FaceBoom"></a>
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/images/logo.png" class="logo" alt="FaceBoom"></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -36,32 +36,32 @@
 
                                     <input type="text" placeholder="Search" id="1000" class="srch srch-sm srch-input" onkeyup="loadSearch()"/>
                                     <li class="nav-item">
-                                        <a class="nav-link" asp-controller="#" asp-action="#">Search</a>
+                                        <a class="nav-link ref" asp-controller="#" asp-action="#">Search</a>
                                     </li>
 
 
 
                                     <li class="nav-item">
-                                        <a class="nav-link" asp-controller="Admin" asp-action="users">Users</a>
+                                        <a class="nav-link ref" asp-controller="Admin" asp-action="users">Users</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" asp-controller="Admin" asp-action="ManageRoles">Roles</a>
+                                        <a class="nav-link ref" asp-controller="Admin" asp-action="ManageRoles">Roles</a>
                                     </li>
                                 }
                                 else
                                 {
                                     <li class="nav-item">
-                                        <a class="nav-link" asp-controller="profile" asp-action="profilepage">
+                                        <a class="nav-link ref" asp-controller="profile" asp-action="profilepage">
                                             Welcome @(user.FirstName ?? user.UserName)
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="/homepage/index">Home</a>
+                                        <a class="nav-link ref" href="/homepage/index">Home</a>
                                     </li>
                                 }
 
                                 <li class="nav-item">
-                                    <a class="nav-link" asp-area="Identity" asp-page="/Account/Manage/ChangePassword"><i class="fas fa-cog"></i></a>
+                                    <a class="nav-link ref" asp-area="Identity" asp-page="/Account/Manage/ChangePassword"><i class="fas fa-cog"></i></a>
                                 </li>
                                 <li class="nav-item">
                                     <form method="post" asp-action="logout" asp-controller="account">
@@ -75,10 +75,10 @@
                             else
                             {
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="account" asp-action="register">Register</a>
+                                    <a class="nav-link ref" asp-controller="account" asp-action="register">Register</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="account" asp-action="login">Login</a>
+                                    <a class="nav-link ref" asp-controller="account" asp-action="login">Login</a>
                                 </li>
                             }
                         </div>
