@@ -1,0 +1,1116 @@
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.StaticWebAssets.xml
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.exe
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.deps.json
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.json
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.dev.json
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.pdb
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.Manifest.cache
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.xml
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cache
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfoInputs.cache
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfo.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.input.cache
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.output.cache
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorCoreGenerate.cache
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cache
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csproj.CopyComplete
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.pdb
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ITI_40\ASP.NET MVC\MVC Project\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csprojAssemblyReference.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.StaticWebAssets.xml
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.exe
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.deps.json
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.json
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.dev.json
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.pdb
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csprojAssemblyReference.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.Manifest.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.xml
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfoInputs.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfo.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.input.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.output.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorCoreGenerate.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csproj.CopyComplete
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.pdb
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.StaticWebAssets.xml
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.exe
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.deps.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.dev.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.pdb
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csprojAssemblyReference.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.Manifest.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.xml
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfoInputs.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfo.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.input.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.output.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorCoreGenerate.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csproj.CopyComplete
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.pdb
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.StaticWebAssets.xml
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.exe
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.deps.json
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.json
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.dev.json
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.pdb
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.Manifest.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.xml
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfo.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.input.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.output.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorCoreGenerate.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csproj.CopyComplete
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.pdb
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csprojAssemblyReference.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.Manifest.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.xml
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfoInputs.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfo.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.input.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.output.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorCoreGenerate.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.pdb
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.json
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.StaticWebAssets.xml
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.exe
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.deps.json
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.json
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.dev.json
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.pdb
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csproj.CopyComplete
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SuccessfulRegistration.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MailKit.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MimeKit.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cache
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+H:\xx\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SuccessfulRegistration.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csprojAssemblyReference.cache
+E:\Mohamed\ITI\26.MVC\Project\GitProject\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csprojAssemblyReference.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.Manifest.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.xml
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfoInputs.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfo.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.pdb
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.input.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.output.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorCoreGenerate.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\AddComment.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\Index.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\LoadComments.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\newPost.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\Posted.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\updatePost.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\whoLikePost.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SuccessfulRegistration.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cache
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.json
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.StaticWebAssets.xml
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.exe
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.deps.json
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.json
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.dev.json
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.pdb
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MailKit.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MimeKit.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csproj.CopyComplete
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ManageRoles.cshtml.g.cs
+H:\role2\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddUser.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.output.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.StaticWebAssets.xml
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.exe
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.deps.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.runtimeconfig.dev.json
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.pdb
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.Manifest.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\staticwebassets\MiniFacebook.StaticWebAssets.xml
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfoInputs.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.AssemblyInfo.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.TagHelpers.input.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorCoreGenerate.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddUser.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ManageRoles.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\AddComment.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\index.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\LoadComments.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\newPost.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\Posted.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\updatePost.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\whoLikePost.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SuccessfulRegistration.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cache
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.RazorTargetAssemblyInfo.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.Views.pdb
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csproj.CopyComplete
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.dll
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.pdb
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\MiniFacebook.csprojAssemblyReference.cache
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddUser.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ManageRoles.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\AddComment.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\index.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\LoadComments.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\newPost.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\Posted.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\updatePost.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\HomePage\whoLikePost.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SuccessfulRegistration.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\ITI\MVC\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\AddComment.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\LoadComments.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\newPostProfile.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\PostedProfile.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\ProfilePage.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\updatePost.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\updateProfile.cshtml.g.cs
+E:\ITI\MVC\MiniFacebookApp\MiniFacebookApp\MiniFacebook\MiniFacebook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\whoLikePost.cshtml.g.cs

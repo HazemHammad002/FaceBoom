@@ -1,0 +1,80 @@
+﻿@model RegisterViewModel
+
+@{
+    ViewBag.Title = "User Registration";
+}
+
+    <section>
+        <div class="container my-3">
+            <h2 class=" text-center h2">User Registration</h2>
+            <span class="border-bottom"></span>
+            <div class="row mt-5">
+                <div class="col-12 col-lg-8 offset-lg-2">
+                    <div class=" shadows border border-clrd">
+                        <div class="card">
+
+                            <h5 class="card-header text-center py-4">
+                                <strong>Sign Up</strong>
+                            </h5>
+
+                            <!--Card content-->
+                            <div class="card-body px-lg-4 ">
+                                <form method="post" class="">
+                                    <div class="row">
+                                        <div class="form-group col-12 col-md-6">
+                                            <input asp-for="FistName" class="form-control" placeholder="First Name" />
+                                            <span asp-validation-for="FistName" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-6">
+                                            <input asp-for="LastName" class="form-control" placeholder="Last Name" />
+                                            <span asp-validation-for="LastName" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-12">
+                                            <input asp-for="Email" class="form-control" placeholder="Email Address" />
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-12">
+                                            <input asp-for="Password" class="form-control" placeholder="New Password" />
+                                            <span asp-validation-for="Password" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-12">
+                                            <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password" />
+                                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-12">
+                                            <div class="row">
+                                                <div class="col-12 col-md-4">
+                                                    @Html.DropDownListFor(model => model.Day, Enumerable.Range(1, 31).Select(i => new SelectListItem { Value = i.ToString(), Text = i.ToString() }), "Day", new { @class = "col-12 mb-3  text-center" })
+                                                </div>
+                                                <div class="col-12 col-md-4">
+                                                    @Html.DropDownListFor(model => model.Month, Enumerable.Range(1, 12).Select(i => new SelectListItem { Value = i.ToString(), Text = System.Globalization.CultureInfo.InvariantCulture.DateTimeFormat.GetMonthName(i) }), "Month", new { @class = "col-12 mb-3 text-center" })
+                                                </div>
+                                                <div class="col-12 col-md-4">
+                                                    @Html.DropDownListFor(model => model.Year, Enumerable.Range(1980, 121).Select(i => new SelectListItem { Value = i.ToString(), Text = i.ToString() }), "Year", new { @class = "col-12 text-center" })
+                                                </div>
+                                            </div>
+                                            <span asp-validation-for="Year" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-12">
+                                            @foreach (Gender gender in Enum.GetValues(typeof(Gender)))
+                                            {
+                                                <label>
+                                                    <input asp-for="Gender" type="radio" value="@gender" />
+                                                    @gender
+                                                </label>
+                                            }
+                                            <span asp-validation-for="Gender" class="text-danger"></span>
+
+                                        </div>
+                                        <div class="form-group col-12">
+                                            <button type="submit" class="btn animated-button ">Register</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

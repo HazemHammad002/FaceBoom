@@ -1,0 +1,41 @@
+﻿@model User
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<div class="container" style="padding:6%;">
+    <div class="row">
+        <img src="~/Images/download.png" class="circle img-fluid" style="float:left" />
+        <div class="row d-inline-block" style="margin-left:2px ;float:left;">
+            <a href="#" class="btn-link"><h6 class="col-12">@Model.FirstName @Model.LastName</h6></a>
+            <p class="col-12 ">@Model.Email</p>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-6 mb-2">
+            <input class="form-control" value="@Model.FirstName" id="newFname" />
+        </div>
+        <div class="col-6 mb-2">
+            <input class="form-control" value="@Model.LastName" id="newLname" />
+        </div>
+        <div class="col-12 mb-2">
+            <input class="form-control" value="@Model.Bio" id="newBio" />
+        </div>
+        <div class="col-12 mb-2">
+            <input class="form-control" value="@Model.PhoneNumber" id="newPhone" />
+        </div>
+    </div>
+    @{
+        if (Model.ProfilePic != null)
+        {
+            <img src="~/Images/@Model.ProfilePic" width="200" height="200" id="newProfilePic" />
+        }
+        else
+        {
+            <img src="" id="newProfilePic" width="200" height="200" style="display:none" />
+        }
+    }
+    <hr />
+    <input type="button" class="btn animated-button" value="Update" onclick="updateProfile('@Model.Id')" />
+
+</div>

@@ -1,0 +1,49 @@
+﻿@model AdminCreateUserModel
+
+@{
+    ViewBag.Title = "Creating New User";
+}
+
+    <section>
+        <div class="container my-4">
+            <h2 class=" text-center h2">Creating Users</h2>
+            <span class="border-bottom"></span>
+            <div class="row mt-5">
+                <div class="col-12 col-lg-8 offset-lg-2">
+                    <div class=" shadows border border-clrd">
+                        <div class="card">
+                            <h5 class="card-header text-center py-4"><strong>Add New User</strong></h5>
+                            <div class="card-body px-lg-4 ">
+                                <form method="post">
+                                    <div class="row">
+                                        <div class="form-group col-12 col-md-12">
+                                            <input asp-for="Email" class="form-control" placeholder="Email Address" />
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-12">
+                                            <input asp-for="Password" class="form-control" placeholder="Password" />
+                                            <span asp-validation-for="Password" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-12">
+                                            <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password" />
+                                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12 col-md-12">
+                                            <label >Role Name:</label>
+                                            <select asp-for="RoleName" asp-items="(SelectList)@ViewData["Roles"]" class="ml-2 px-5">
+                                            </select>
+                                            <span asp-validation-for="RoleName" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group col-12">
+                                            <button type="submit" class="btn animated-button ">Add User</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+

@@ -1,0 +1,124 @@
+﻿@inject SignInManager<User> signInManager;
+@inject UserManager<User> usermanager;
+@{ 
+    var user = await usermanager.GetUserAsync(User);
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MiniFacebook</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/all.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <!--NavBar-->
+    <section id="nav" class="">
+        <div class="container">
+            <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light nav-x py-3 ">
+                <div class="container">
+
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="images/logo.png" alt="FaceBoom"></a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav ml-auto">
+
+                            @if (signInManager.IsSignedIn(User))
+                            {
+                                <input type="text" placeholder="Search" class="srch srch-sm srch-input" />
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="#" asp-action="#">Search</a>
+                                </li>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-controller="Admin" asp-action="users">Users</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-controller="Admin" asp-action="ManageRoles">Roles</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-controller="profile" asp-action="profilepage">
+                                            Welcome @(user.FirstName ?? user.UserName)
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/homepage/index">Home</a>
+                                    </li>
+                                }
+
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="Identity" asp-page="/Account/Manage/ChangePassword"><i class="fas fa-cog"></i></a>
+                                </li>
+                                <li class="nav-item">
+                                    <form method="post" asp-action="logout" asp-controller="account">
+                                        <button type="submit" class="logoutbtn">
+                                            Logout
+                                        </button>
+                                    </form>
+                                </li>
+
+                            }
+                            else
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-controller="account" asp-action="register">Register</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-controller="account" asp-action="login">Login</a>
+                                </li>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </section>
+
+
+    <!--Main-Content-->
+    <section class="">
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </section>
+
+    <!--Footer-->
+    <section id="footer" class="footer-section p-3 m-footer">
+        <footer class="container">
+            <p class="copyright-text">
+                &copy; 2020 All Rights Reserved
+                <i class="fa fa-heart hrt"></i> By
+                <a href="#" target="_blank">H7M Team</a>
+            </p>
+        </footer>
+    </section>
+
+    <!--Up-Button-->
+    <div class="scroll-up">
+        <a href="#"><i class="fas fa-angle-up"></i></a>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/all.js"></script>
+    <script src="~/js/Profile.js"></script>
+    <script src="~/js/HomePage.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,12 @@
+﻿@model IEnumerable<User>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@foreach (var item in Model)
+{
+    <div class="col-12" style="margin-top:3%;padding:3%">
+        <img src="~/Images/download.png" class="circle img-fluid" style="float:left" />
+        <a href="#" class="btn-link" style="float:left;margin-left:2%;margin-top:2%;"><h6 class="">@item.UserName</h6></a>
+    </div>
+
+}

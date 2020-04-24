@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Post>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@foreach (var item in Model)
+{
+    <div class="container mar-btm">
+        <div class="row">
+            <div class="card btm border-rad col-12 shadows">
+                <div class="card-header">
+                    <img src="~/Images/download.png" class="circle img-fluid" style="float:left" />
+                    <div class="row d-inline-block" style="margin-left:2px ;float:left;">
+                        <a href="#" class="usr-name"><h6 class="col-12">@item.User.FirstName @item.User.LastName</h6></a>
+                        <p class="col-12 ">@item.PostDate.Date</p>
+                    </div>
+                    @{
+                        if (item.UserID == (string)ViewData["UID"])
+                        {
+                            <div class="d-inline-block float-right">
+                                <button id="update_@item.PostID" onclick="showupdatePost(this.id)" class="btn btn-link"><i class="fa fa-edit"></i></button>
+                                <button class="btn btn-link" id="delete_@item.PostID" onclick="deletePost(this.id)"><i class="fa fa-window-close"></i></button>
+                            </div>
+                        }
+                    }
+
+
+                </div>
+                <div class="card-body" style="border-bottom:1px lightgray solid">
+                    <p class="card-text" id="content_@item.PostID">@item.Content</p>
+                    @{
+                        if (@item.PostPhoto != null)
+                        {
+                            <img src="~/Images/@item.PostPhoto" width="200" height="200" id="img_@item.PostID" />
+                        }
+                        else
+                        {
+                            <img src="~/Images/@item.PostPhoto" width="200" height="200" id="img_@item.PostID" style="display:none" />
+
+                        }
+                    }
+                    <hr />
+                    <div>
+                        @{
+                            int flag = item.PostLikes.Where(p => p.UserID == (string)ViewData["UID"]).ToList().Count;
+
+                            if (flag == 0)
+                            {
+                                <button class="btn btn-light" id="Likebtn @item.PostID" onclick="Liked(this.id)"><i class="fa fa-thumbs-up "></i> Like</button>
+                            }
+                            else
+                            {
+                                <button class="btn btn-primary " id="Likebtn @item.PostID" onclick="Liked(this.id)"><i class="fa fa-thumbs-up "></i> Like</button>
+                            }
+                        }
+                        <button class="btn btn-light" id="showComments_@item.PostID" onclick="showComments(this.id)"><i class="fa fa-comments"></i> Comments</button>
+                        <button class="btn btn-link " style="float:right" id="nolike_@item.PostID" onclick="showLikes(@item.PostID)">@item.PostLikes.Count Likes</button>
+                    </div>
+                </div>
+                <div class="card-body dis-none" id="comments_@item.PostID">
+                    <input type="text" class="col-7 d-inline form-control" id="commentContent_@item.PostID" />
+                    <button class="btn animated-button col-4 col-4 mb-1 ml-4 " id="addcomment_@item.PostID" onclick="addComment(this.id)">Comment</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}

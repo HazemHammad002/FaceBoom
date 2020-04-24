@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Comment>
+@*
+	For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@foreach (var item in Model)
+{
+	<div class=" row " style="border-bottom:1px solid lightgray">
+		<img src="~/Images/man58.png" class="circle img-fluid" style="margin-left:5%; margin-top:2%" />
+		<div class="col-8">
+			<p class="usr-name ml-2">Hazem Hammad</p>
+			<p style="margin-left:2.5%;margin-top:-5%">@item.CommentDate</p>
+		</div>
+		<p style="margin-left:17%;" class="col-8 mb-4">@item.CommentText</p>
+		@{
+            int flag = item.CommentLikes.Where(c => c.UserID == (string)ViewData["UID"]).ToList().Count;
+            int x = 150;
+            if (flag == 0)
+            {
+				<p class="btn btn-light offset-2" style="margin-top:-4%" id="likecomm_@item.CommentID" onclick="likeComment(@item.CommentID)"><i class="fa fa-thumbs-up"></i>Like</p>
+			}
+			else
+			{
+				<p class="btn btn-primary offset-2" style="margin-top:-4%" id="likecomm_@item.CommentID" onclick="likeComment(@item.CommentID)"><i class="fa fa-thumbs-up"></i>Like</p>
+			}
+		}
+	</div>	
+}

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-MiniFacebook-B52A070A-94E2-4FFA-9DE5-CA4551A42E3A</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200409181427_UserRole.cs" />
+    <Compile Remove="Migrations\20200409181427_UserRole.Designer.cs" />
+    <Compile Remove="Migrations\20200409192234_UserRole1.cs" />
+    <Compile Remove="Migrations\20200409192234_UserRole1.Designer.cs" />
+    <Compile Remove="Migrations\20200416150833_addNametoUser.cs" />
+    <Compile Remove="Migrations\20200416150833_addNametoUser.Designer.cs" />
+    <Compile Remove="Migrations\20200417084204_addingfirstLastNameForUser.cs" />
+    <Compile Remove="Migrations\20200417084204_addingfirstLastNameForUser.Designer.cs" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Core" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="3.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="3.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+</Project>

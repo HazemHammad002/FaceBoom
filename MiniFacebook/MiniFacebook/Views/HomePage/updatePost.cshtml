@@ -1,0 +1,29 @@
+﻿@model Post
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+    <div class="container" style="padding:6%;">
+        <div class="row">
+            <img src="~/Images/download.png" class="circle img-fluid" style="float:left" />
+            <div class="row d-inline-block" style="margin-left:2px ;float:left;">
+                <a href="#" class="usr-name"><h6 class="col-12">@Model.User.UserName</h6></a>
+                <p class="col-12 ">@Model.PostDate</p>
+            </div>
+        </div>
+        <hr />
+        <textarea class="no-resize col-12" id="newContent">@Model.Content</textarea>
+        @{
+            if (Model.PostPhoto != null)
+            {
+                <img src="~/Images/@Model.PostPhoto" width="200" height="200" id="newImage" />
+            }
+            else
+            {
+                <img src="" id="newImage" width="200" height="200"  style="display:none"/>
+            }
+        }
+        <hr />
+        <input class="col-5" type="file" id="iimg" onchange="selected(@Model.PostID)" />
+        <input type="button" class="ml-4 col-6 btn animated-button" value="Update" onclick="updatePost(@Model.PostID)" />
+
+    </div>

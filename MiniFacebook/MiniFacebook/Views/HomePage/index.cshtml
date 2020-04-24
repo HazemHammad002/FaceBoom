@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Post>
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/HomePage.css" rel="stylesheet" />
+@*//Modal To Update*@
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="mod">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content" id="update">
+            ...
+            <div></div>
+        </div>
+    </div>
+</div>
+@{await Html.RenderPartialAsync("newPost");}
+<div id="AllPosts" style="margin-top:20px">
+    @{await Html.RenderPartialAsync("Posted", Model, ViewData);}
+</div>
+
+@*Likes Modal*@
+<div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" id="Lmodal">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div id="LikeDiv" class="row" style="padding:3%">
+
+            </div>
+        </div>
+    </div>
+</div>

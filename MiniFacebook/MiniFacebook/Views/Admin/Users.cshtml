@@ -1,0 +1,92 @@
+﻿@model List<ModifiyUserStateAndState>;
+
+@{
+    ViewData["Title"] = "Admin Page";
+   
+}
+<script>var id = 0; </script>
+<div class="row">
+    <div class="col-6 col-md-4">
+        <input type="button" value="Add New User" class="btn animated-button my-3" onclick="location.href='@Url.Action("AddUser", "Admin")'" />
+    </div>
+</div>
+
+<body>
+
+    <input type="text" id="1000" class="form-control w-50 d-inline mr-2" name="Usrname" onkeyup="loadSearch()">
+
+    <input type="submit" value="Search" class="btn animated-button w-25 mb-1" onclick="loadSearch()" />
+
+    
+ 
+
+
+    <table class="table table-bordered table-striped shadows mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Block State</th>
+                <th scope="col">Authority</th>
+                <th scope="col">Role</th>
+            </tr>
+        </thead>
+        <tbody class="tbody table-active">
+
+            @{
+                foreach (var item in Model)
+                {
+
+
+                    <tr id="trId">
+                        <form asp-action="Users" method="post">
+
+                            <th scope="row">@item.UserName</th>
+                            <td><input type="hidden" id="test" asp-for="@item.UserId" name="UserId" /></td>
+                            <script>
+                                document.getElementById("test").id = id;
+                                document.getElementById("trId").id = "p" + id;
+                                id++;
+                            </script>
+
+                            <td><input type="checkbox" id="test1" name="UserState" asp-for="@item.UserState" onclick="loadstateData(this.id)" /></td>
+                            <script>
+                                    if ('@item.UserState' == 'True') {
+                                        document.getElementById("test1").value = true;
+                                    }
+                                    else {
+                                        document.getElementById("test1").value = false;
+                                    }
+                                    document.getElementById("test1").id = id;
+                                    id++;
+                            </script>
+                            <td>
+
+                                <select name="RoleName" id="test3" asp-for="@item.RoleName" asp-items="(SelectList)@ViewData["Roles"]" onchange="loadsroleData(this.id)">
+                                </select>
+
+                            </td>
+                            <script>
+
+                                    document.getElementById('test3').selectedIndex = [...document.getElementById('test3').options].findIndex(option => option.text === '@item.RoleName');
+
+
+                                    document.getElementById("test3").id = id;
+                                    id++;
+                            </script>
+
+                        </form>
+                    </tr>
+
+                }
+            }
+        </tbody>
+    </table>
+</body>
+
+
+@section scripts{
+    <script src="~/js/AdminUsers.js"></script>
+}
+
+
+

@@ -1,0 +1,13 @@
+﻿@model Comment
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+    <div class=" row " style="border-bottom:1px solid lightgray">
+        <img src="~/Images/man58.png" class="circle img-fluid" style="margin-left:5%; margin-top:2%" />
+        <div class="col-8">
+            <p class="usr-name ml-2">Hazem Hammad</p>
+            <p style="margin-left:2.5%;margin-top:-5%">@Model.CommentDate</p>
+        </div>
+        <p  style="margin-left:17%;" class="col-8 mb-4" >@Model.CommentText</p>
+        <p  class="btn btn-light offset-2" id="likecomm_@Model.CommentID" style="margin-top:-4%" onclick="likeComment(@Model.CommentID)"><i class="fa fa-thumbs-up"></i>Like</p>
+    </div>
