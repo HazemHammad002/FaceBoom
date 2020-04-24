@@ -30,28 +30,28 @@ namespace MiniFacebook.Extension
         }
         public static  void seedAdminUser(UserManager<User> userManager)
         {
-            if ( userManager.FindByEmailAsync("admin@admin.com").Result == null)
-            {
-                User user = new User
-                {
-                    Id = "1",
-                    UserName= "admin@admin.com",
-                    Email = "admin@admin.com",
-                    EmailConfirmed = true,
-                    Gender = 0,
-                    BirthDate = new DateTime(1995, 1, 1),
-                    PhoneNumberConfirmed=false,
-                    TwoFactorEnabled=false,
-                    LockoutEnabled=false,
-                    AccessFailedCount=0
+            //if ( userManager.FindByEmailAsync("admin@admin.com").Result == null)
+            //{
+            //    User user = new User
+            //    {
+            //        Id = "1",
+            //        UserName= "admin@admin.com",
+            //        Email = "admin@admin.com",
+            //        EmailConfirmed = true,
+            //        Gender = 0,
+            //        BirthDate = new DateTime(1995, 1, 1),
+            //        PhoneNumberConfirmed=false,
+            //        TwoFactorEnabled=false,
+            //        LockoutEnabled=false,
+            //        AccessFailedCount=0
                    
-                };
-                IdentityResult result = userManager.CreateAsync(user, "Admin123").Result;
-                if (result.Succeeded)
-                {
-                    userManager.AddToRoleAsync(user, "Admin").Wait();
-                }
-            }
+            //    };
+            //    IdentityResult result = userManager.CreateAsync(user, "Admin123").Result;
+            //    if (result.Succeeded)
+            //    {
+            //        userManager.AddToRoleAsync(user, "Admin").Wait();
+            //    }
+            //}
         }
     }
 }
