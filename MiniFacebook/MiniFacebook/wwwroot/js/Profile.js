@@ -132,11 +132,10 @@ function showupdateProfile(uid) {
 function updateProfile(id) {
     var updatedUser = {};
     updatedUser.Id = id;
-    updatedUser.Birthdate = document.getElementById("newBirthdate").value;
     updatedUser.Bio = document.getElementById("newBio").value;
     updatedUser.PhoneNumber = document.getElementById("newPhone").value;
-    updatedUser.Fname = document.getElementById("newFname").value;
-    updatedUser.Lname = document.getElementById("newLname").value;
+    updatedUser.Firstname = document.getElementById("newFname").value;
+    updatedUser.Lastname = document.getElementById("newLname").value;
     updatedUser.ProfilePic = document.getElementById("newProfilePic").src;
     $.ajax({
         method: 'Post',
@@ -144,10 +143,9 @@ function updateProfile(id) {
         data: { user: updatedUser },
         success: function () {
             document.getElementById("Bio").innerText = updatedUser.Bio;
-            document.getElementById("bdate").innerText = updatedUser.Birthdate;
             document.getElementById("phone").innerText = updatedUser.PhoneNumber;
-            document.getElementById("fname").innerText = updatedUser.Fname;
-            document.getElementById("lname").innerText = updatedUser.Lname;
+            document.getElementById("fname").innerText = updatedUser.Firstname;
+            document.getElementById("lname").innerText = updatedUser.Lastname;
             document.getElementById("profileImg").src = updatedUser.ProfilePic;
             $('#pmod').modal('hide');
         }

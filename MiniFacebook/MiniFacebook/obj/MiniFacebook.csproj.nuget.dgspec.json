@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI\\MVC\\MiniFacebookApp\\MiniFacebookApp\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj": {}
+    "E:\\ITI\\MVC\\MiniFacebook\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj": {}
   },
   "projects": {
-    "E:\\ITI\\MVC\\MiniFacebookApp\\MiniFacebookApp\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj": {
+    "E:\\ITI\\MVC\\MiniFacebook\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI\\MVC\\MiniFacebookApp\\MiniFacebookApp\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
+        "projectUniqueName": "E:\\ITI\\MVC\\MiniFacebook\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
         "projectName": "MiniFacebook",
-        "projectPath": "E:\\ITI\\MVC\\MiniFacebookApp\\MiniFacebookApp\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
+        "projectPath": "E:\\ITI\\MVC\\MiniFacebook\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
         "packagesPath": "C:\\Users\\Memo0o\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI\\MVC\\MiniFacebookApp\\MiniFacebookApp\\MiniFacebook\\MiniFacebook\\obj\\",
+        "outputPath": "E:\\ITI\\MVC\\MiniFacebook\\FaceBoom\\MiniFacebook\\MiniFacebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Memo0o\\AppData\\Roaming\\NuGet\\NuGet.Config",
