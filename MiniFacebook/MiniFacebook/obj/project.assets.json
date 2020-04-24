@@ -9364,19 +9364,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Memo0o\\.nuget\\packages\\": {}
+    "C:\\Users\\EL.LORD.MOHAMED\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITI\\MVC\\MiniFacebook\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
+      "projectUniqueName": "E:\\Mohamed\\ITI\\26.MVC\\Project\\GitProject\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
       "projectName": "MiniFacebook",
-      "projectPath": "E:\\ITI\\MVC\\MiniFacebook\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
-      "packagesPath": "C:\\Users\\Memo0o\\.nuget\\packages\\",
-      "outputPath": "E:\\ITI\\MVC\\MiniFacebook\\FaceBoom\\MiniFacebook\\MiniFacebook\\obj\\",
+      "projectPath": "E:\\Mohamed\\ITI\\26.MVC\\Project\\GitProject\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
+      "packagesPath": "C:\\Users\\EL.LORD.MOHAMED\\.nuget\\packages\\",
+      "outputPath": "E:\\Mohamed\\ITI\\26.MVC\\Project\\GitProject\\FaceBoom\\MiniFacebook\\MiniFacebook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Memo0o\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EL.LORD.MOHAMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9459,7 +9459,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

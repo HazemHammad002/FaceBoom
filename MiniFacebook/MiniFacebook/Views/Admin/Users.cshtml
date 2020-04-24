@@ -27,7 +27,7 @@
                 <th scope="col">Name</th>
                 <th scope="col">Block State</th>
                 <th scope="col">Authority</th>
-                <th scope="col">Role</th>
+                @*<th scope="col">Role</th>*@
             </tr>
         </thead>
         <tbody class="tbody table-active">
@@ -41,7 +41,7 @@
                         <form asp-action="Users" method="post">
 
                             <th scope="row">@item.UserName</th>
-                            <td><input type="hidden" id="test" asp-for="@item.UserId" name="UserId" /></td>
+                            <input type="hidden" id="test" asp-for="@item.UserId" name="UserId" />
                             <script>
                                 document.getElementById("test").id = id;
                                 document.getElementById("trId").id = "p" + id;
