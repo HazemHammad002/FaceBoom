@@ -30,12 +30,17 @@
 
                             @if (signInManager.IsSignedIn(User))
                             {
-                                <input type="text" placeholder="Search" class="srch srch-sm srch-input" />
-                                <li class="nav-item">
-                                    <a class="nav-link" asp-controller="#" asp-action="#">Search</a>
-                                </li>
+
                                 @if (User.IsInRole("Admin"))
                                 {
+
+                                    <input type="text" placeholder="Search" id="1000" class="srch srch-sm srch-input" onkeyup="loadSearch()"/>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-controller="#" asp-action="#">Search</a>
+                                    </li>
+
+
+
                                     <li class="nav-item">
                                         <a class="nav-link" asp-controller="Admin" asp-action="users">Users</a>
                                     </li>
