@@ -12,6 +12,7 @@ namespace MiniFacebook.Models.ViewModels
         public string UserName { get; set; }
         public bool UserState { get; set; }
         public string RoleName { get; set; }
+        public string Pic { get; set; }
 
     }
 }

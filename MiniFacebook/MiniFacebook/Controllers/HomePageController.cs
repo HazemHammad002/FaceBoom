@@ -9,19 +9,27 @@ using Microsoft.EntityFrameworkCore;
 using MiniFacebook.Data;
 using MiniFacebook.Models.Entities;
 using MiniFacebook.Models.RepoInterface;
+using Microsoft.AspNetCore.Identity;
+using MiniFacebook.Models.ViewModels;
 
 namespace MiniFacebook.Controllers
 {
     [Authorize]
     public class HomePageController : Controller
     {
+        private readonly UserManager<User> _userManager;
+        private readonly RoleManager<Role> _roleManager;
+
+
         IPostRepo _Post;
         IFriendRepo _Friends;
         IPostLikeRepo _PostLikes;
         ICommentRepo _PostComments;
         ICommentLikeRepo _CommentLike;
-        public HomePageController( ICommentLikeRepo CommentLike, ICommentRepo PostComments, IPostRepo Post,IFriendRepo Friends, IPostLikeRepo PostLikes)
+        public HomePageController(UserManager<User> userManager, RoleManager<Role> roleManager,ICommentLikeRepo CommentLike, ICommentRepo PostComments, IPostRepo Post,IFriendRepo Friends, IPostLikeRepo PostLikes)
         {
+            _roleManager = roleManager;
+            _userManager = userManager;
             _Post = Post;
             _Friends = Friends;
             _PostLikes = PostLikes;
@@ -131,5 +139,39 @@ namespace MiniFacebook.Controllers
             var likeComm = _CommentLike.getCommentLike(cid, HttpContext.Session.GetString("ID"));
             _CommentLike.removeCommentLike(likeComm);
         }
+        [HttpGet]
+        public async Task<IActionResult> searchUsersAsync(string searchinput)
+        {
+
+            ViewData["Roles"] = new Microsoft.AspNetCore.Mvc.Rendering.SelectList(_roleManager.Roles, "Id", "Name");
+            if (searchinput != null)
+            {
+                List<ModifiyUserStateAndState> users = new List<ModifiyUserStateAndState>();
+                var x = _userManager.Users.Where(p => p.UserName.Contains(searchinput) ||
+                p.FirstName.Contains(searchinput) || p.LastName.Contains(searchinput));
+                foreach (var item in x)
+                {
+                    ModifiyUserStateAndState user = new ModifiyUserStateAndState();
+                    user.Pic = item.ProfilePic;
+                    user.UserId = item.Id;
+                    user.UserName = item.UserName;
+                    if (item.UserState == UserState.blocked)
+                        user.UserState = true;
+                    else
+                        user.UserState = false;
+                    IList<string> _role = await _userManager.GetRolesAsync(item);
+
+                    user.RoleName = _role.FirstOrDefault();
+                    if (item.UserState != UserState.blocked)
+                        users.Add(user);
+                }
+
+                return View(users);
+            }
+            return View("index");
+
+        }
+
+
     }
 }

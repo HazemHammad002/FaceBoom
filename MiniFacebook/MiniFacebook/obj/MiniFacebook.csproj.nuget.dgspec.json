@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI\\MVC\\MiniFacebookApp\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj": {}
+    "E:\\Mohamed\\ITI\\26.MVC\\Project\\GitProject\\FinalR\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj": {}
   },
   "projects": {
-    "E:\\ITI\\MVC\\MiniFacebookApp\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj": {
+    "E:\\Mohamed\\ITI\\26.MVC\\Project\\GitProject\\FinalR\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI\\MVC\\MiniFacebookApp\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
+        "projectUniqueName": "E:\\Mohamed\\ITI\\26.MVC\\Project\\GitProject\\FinalR\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
         "projectName": "MiniFacebook",
-        "projectPath": "E:\\ITI\\MVC\\MiniFacebookApp\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
-        "packagesPath": "C:\\Users\\Memo0o\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI\\MVC\\MiniFacebookApp\\FaceBoom\\MiniFacebook\\MiniFacebook\\obj\\",
+        "projectPath": "E:\\Mohamed\\ITI\\26.MVC\\Project\\GitProject\\FinalR\\FaceBoom\\MiniFacebook\\MiniFacebook\\MiniFacebook.csproj",
+        "packagesPath": "C:\\Users\\EL.LORD.MOHAMED\\.nuget\\packages\\",
+        "outputPath": "E:\\Mohamed\\ITI\\26.MVC\\Project\\GitProject\\FinalR\\FaceBoom\\MiniFacebook\\MiniFacebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Memo0o\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EL.LORD.MOHAMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +76,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
@@ -97,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

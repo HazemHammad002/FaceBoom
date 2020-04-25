@@ -30,14 +30,25 @@
 
                             @if (signInManager.IsSignedIn(User))
                             {
-
+                                <form method="get" asp-controller="HomePage" asp-action="searchUsers" id="F1000">
+                                    <input type="text" placeholder="Search" name="searchinput" id="1001" class="srch srch-sm srch-input" />
+                                    @*<li class="nav-item" id="1002">
+                                        <input type="submit" value="Search" />
+                                    </li>*@
+                                </form>
                                 @if (User.IsInRole("Admin"))
                                 {
+                                    <script>
 
-                                    <input type="text" placeholder="Search" id="1000" class="srch srch-sm srch-input" onkeyup="loadSearch()"/>
-                                    <li class="nav-item">
-                                        <a class="nav-link ref" asp-controller="#" asp-action="#">Search</a>
-                                    </li>
+                                        document.getElementById("F1000").style.display = "none";
+
+                                    </script>
+                                    <form method="get" asp-action="Users" asp-controller="Admin" id="F1000">
+                                        <input type="text" placeholder="Search" id="1000" class="srch srch-sm srch-input" onkeyup="loadSearch()" />*
+                                        @*<li class="nav-item" id="1002">
+                                            <input type="submit" value="Search" />
+                                        </li>*@
+                                    </form>
 
 
 

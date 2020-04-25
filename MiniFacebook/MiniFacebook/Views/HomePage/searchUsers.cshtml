@@ -1,0 +1,49 @@
+﻿@model List<ModifiyUserStateAndState>;
+
+@{
+    ViewData["Title"] = "Search";
+
+}
+<script>var id = 0;</script>
+
+<body>
+
+
+
+    <table class="table table-bordered table-striped shadows mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Picture</th>
+                <th scope="col">Name</th>
+            </tr>
+        </thead>
+        <tbody class="tbody table-active">
+
+            @{
+                foreach (var item in Model)
+                {
+
+
+                    <tr id="trId">
+                                    <form asp-action="Users" method="post">
+                                        <td><img class="img-fluid col-lg-12 col-6" id="profileImg" src="~/Images/@{@item.Pic}" /></td>
+
+                                        <td scope="row">@item.UserName</td>
+                                        <input type="hidden" id="test" asp-for="@item.UserId" name="UserId" />
+                                        <script>
+                                            document.getElementById("test").id = id;
+                                            document.getElementById("trId").id = "p" + id;
+                                            id++;
+                                        </script>
+                                    </form>
+                    </tr>
+
+                }
+            }
+        </tbody>
+    </table>
+</body>
+
+
+
+
