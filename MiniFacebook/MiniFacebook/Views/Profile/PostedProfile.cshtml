@@ -9,10 +9,10 @@
         <div class="row">
             <div class="card btm border-rad col-12 shadows">
                 <div class="card-header">
-                    <img src="~/Images/download.png" class="circle img-fluid" style="float:left" />
+                    <img src="~/Images/@{@item.User.ProfilePic}" class="circle img-fluid" style="float:left" />
                     <div class="row d-inline-block" style="margin-left:2px ;float:left;">
                         <a href="#" class="usr-name"><h6 class="col-12">@item.User.FirstName @item.User.LastName</h6></a>
-                        <p class="col-12 ">@item.PostDate.Date</p>
+                        <p class="col-12 ">@item.PostDate</p>
                     </div>
                     @{
                         if (item.UserID == (string)ViewData["UID"])

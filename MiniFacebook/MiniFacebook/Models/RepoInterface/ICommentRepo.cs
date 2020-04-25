@@ -10,5 +10,6 @@ namespace MiniFacebook.Models.RepoInterface
     {
         public IEnumerable<Comment> loadPostComments(int PostID);
         public void addComment(Comment c);
+        public Comment getPostComment(DateTime comDate, string uid);
     }
 }
