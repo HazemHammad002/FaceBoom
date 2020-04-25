@@ -124,7 +124,7 @@ namespace MiniFacebook.Controllers
                     if (!string.IsNullOrEmpty(returnUrl) && Url.IsLocalUrl(returnUrl))
                         return Redirect(returnUrl);
                     else
-                        return RedirectToAction("index", "home");
+                        return RedirectToAction("index", "homepage");
 
                 }   
                 ModelState.AddModelError("", "Invalid Login Attempt");
