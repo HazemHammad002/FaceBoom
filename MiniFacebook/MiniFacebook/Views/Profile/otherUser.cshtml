@@ -2,8 +2,12 @@
 
 @{
     ViewData["Title"] = "otherUser";
-}
 
+}
+@{ 
+    User u = new User();
+    u = (User)ViewData["user"];
+}
 <link href="~/css/HomePage.css" rel="stylesheet" />
 
 <section class="container my-4">
@@ -11,7 +15,7 @@
         <div class="col-12 col-lg-4 mb-3 ">
             <div class="row text-center shadows p-3">
                 <div class="col-12 mb-2">
-                    <img class="img-fluid col-lg-12 col-6" id="profileImg" src="~/Images/@{@Model.ToList()[0].User.ProfilePic}" />
+                    <img class="img-fluid col-lg-12 col-6" id="profileImg" src="~/Images/@{@u.ProfilePic}" />
                     @*@Model.ToList()[0].User.ProfilePic*@
                 </div>
                 <div class="col-6 mb-2 col-lg-12 offset-3 offset-lg-0">
@@ -39,19 +43,19 @@
 
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h2 id="fname" class="d-inline">@Model.ToList()[0].User.FirstName</h2> <h2 id="lname" class="d-inline">  @Model.ToList()[0].User.LastName</h2>
+                    <h2 id="fname" class="d-inline">@u.FirstName</h2> <h2 id="lname" class="d-inline">  @u.LastName</h2>
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h6 class="d-inline">Bio: </h6> <p class="d-inline" id="Bio">@Model.ToList()[0].User.Bio</p>
+                    <h6 class="d-inline">Bio: </h6> <p class="d-inline" id="Bio">@u.Bio</p>
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h6 class="d-inline">Birthdate:</h6> <p class="d-inline" id="bdate">@Model.ToList()[0].User.BirthDate</p>
+                    <h6 class="d-inline">Birthdate:</h6> <p class="d-inline" id="bdate">@u.BirthDate</p>
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h6 class="d-inline">Gender:</h6> <p class="d-inline">@Model.ToList()[0].User.Gender</p>
+                    <h6 class="d-inline">Gender:</h6> <p class="d-inline">@u.Gender</p>
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h6 class="d-inline">Phone:</h6> <p class="d-inline" id="phone">@Model.ToList()[0].User.PhoneNumber</p>
+                    <h6 class="d-inline">Phone:</h6> <p class="d-inline" id="phone">@u.PhoneNumber</p>
                 </div>
             </div>
         </div>

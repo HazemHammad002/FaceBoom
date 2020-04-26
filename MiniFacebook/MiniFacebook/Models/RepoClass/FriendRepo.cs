@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace MiniFacebook.Models.RepoClass
 {
     public class FriendRepo : IFriendRepo
-    {
+    {   
         private readonly ApplicationDbContext context;
         public FriendRepo(ApplicationDbContext _context)
         {
