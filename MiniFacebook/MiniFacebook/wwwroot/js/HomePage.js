@@ -13,7 +13,7 @@ $("#post").on("click", function () {
     //after loading data send req to add the new post to Database
     $.ajax({
         method: "Post",
-        url: "addPost",
+        url: "/homepage/addPost",
         data: {p:npost},
         success: function (data) {
             $("#AllPosts").html(data);
@@ -38,7 +38,7 @@ function Liked(id) {
     if (btn == "btn btn-light") {
             $.ajax({
                 method: "Post",
-                url: "LikePost",
+                url: "/homepage/LikePost",
                 data: { like: like },
                 success: function () {
                     document.getElementById(id).classList.add("btn-primary");
@@ -52,7 +52,7 @@ function Liked(id) {
         else {
             $.ajax({
                 method: "Post",
-                url: "RemoveLikePost",
+                url: "/homepage/RemoveLikePost",
                 data: { like: like },
                 success: function () {
                     document.getElementById(id).classList.add("btn-light");
@@ -71,7 +71,7 @@ function showComments(id) {
     console.log(id, typeof id);
     $.ajax({
         method: 'Post',
-        url: 'LoadComments',
+        url: '/homepage/LoadComments',
         data: { postid: id }, 
         success: function (data) {
             document.getElementById('comments_' + id).innerHTML = '';
@@ -93,7 +93,7 @@ function addComment(pid) {
    
     $.ajax({
         method: 'Post',
-        url: 'AddComment',
+        url: '/homepage/AddComment',
         data: { c: comm },
         success: function (data) {
             console.log(data);
@@ -108,7 +108,7 @@ function showupdatePost(id) {
     console.log(id);
     $.ajax({
         method: 'post',
-        url: 'updatePost',
+        url: '/homepage/updatePost',
         data: { pid: parseInt(id.substring(7)) },
         success: function (data) {
             console.log(data);
@@ -121,7 +121,7 @@ function showupdatePost(id) {
 function deletePost(id) {
     $.ajax({
         method: 'Post',
-        url: 'deletePost',
+        url: '/homepage/deletePost',
         data: { pID: id.substring(7) },
         success: function (data) {
             document.getElementById('AllPosts').innerHTML = data;
@@ -150,7 +150,7 @@ function updatePost(id) {
     console.log(updadetPost);
     $.ajax({
         method: 'Post',
-        url: 'confirmUpdate',
+        url: '/homepage/confirmUpdate',
         data: { post: updadetPost },
         success: function () {
             document.getElementById('content_' + id).innerText = updadetPost.Content;
@@ -171,7 +171,7 @@ function updatePost(id) {
 function showLikes(id) {
     $.ajax({
         method: 'Post',
-        url: 'whoLikePost',
+        url: '/homepage/whoLikePost',
         data: { pid: id },
         success: function (data) {
             document.getElementById('LikeDiv').innerHTML = data;
@@ -187,7 +187,7 @@ function likeComment(id) {
     if (btn.search('btn-light')>0) {
         $.ajax({
             method: "Post",
-            url: "likeComment",
+            url: "/homepage/likeComment",
             data: { c: likeComm },
             success: function () {
                 document.getElementById('likecomm_'+id).classList.add("btn-primary");
@@ -198,7 +198,7 @@ function likeComment(id) {
     else {
         $.ajax({
             method: "Post",
-            url: "removeCommentLike",
+            url: "/homepage/removeCommentLike",
             data: { cid: id },
             success: function () {
                 document.getElementById('likecomm_' + id).classList.add("btn-light");

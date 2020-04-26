@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Post>
+
+@{
+    ViewData["Title"] = "otherUser";
+}
+
+<link href="~/css/HomePage.css" rel="stylesheet" />
+
+<section class="container my-4">
+    <div class="row">
+        <div class="col-12 col-lg-4 mb-3 ">
+            <div class="row text-center shadows p-3">
+                <div class="col-12 mb-2">
+                    <img class="img-fluid col-lg-12 col-6" id="profileImg" src="~/Images/@{@Model.ToList()[0].User.ProfilePic}" />
+                    @*@Model.ToList()[0].User.ProfilePic*@
+                </div>
+                <div class="col-6 mb-2 col-lg-12 offset-3 offset-lg-0">
+                    @{
+                        var fid = (string)ViewData["fID"];
+                        if (ViewData["isFriend"] == null)
+                        {
+                                        <a class="btn text-left animated-button upld-btn" href="/profile/friendrequest?fid=@fid">
+                                            <i ></i>Add Friend
+                                        </a>
+                        }
+                        else if ((FriendState)ViewData["isFriend"] == FriendState.SendFriendRequest)
+                        {
+                            <a class="btn text-left animated-button upld-btn" href="/profile/deletefriendrequest?fid=@fid">
+                                <i></i>Delete Friend Request
+                            </a>
+                        }
+                        else
+                        {
+                            <a class="btn text-left animated-button upld-btn" href="/profile/deletefriend?fid=@fid">
+                                <i ></i>Friend
+                            </a>
+                        }
+                    }
+
+                </div>
+                <div class="col-12 text-left-cus mb-2">
+                    <h2 id="fname" class="d-inline">@Model.ToList()[0].User.FirstName</h2> <h2 id="lname" class="d-inline">  @Model.ToList()[0].User.LastName</h2>
+                </div>
+                <div class="col-12 text-left-cus mb-2">
+                    <h6 class="d-inline">Bio: </h6> <p class="d-inline" id="Bio">@Model.ToList()[0].User.Bio</p>
+                </div>
+                <div class="col-12 text-left-cus mb-2">
+                    <h6 class="d-inline">Birthdate:</h6> <p class="d-inline" id="bdate">@Model.ToList()[0].User.BirthDate</p>
+                </div>
+                <div class="col-12 text-left-cus mb-2">
+                    <h6 class="d-inline">Gender:</h6> <p class="d-inline">@Model.ToList()[0].User.Gender</p>
+                </div>
+                <div class="col-12 text-left-cus mb-2">
+                    <h6 class="d-inline">Phone:</h6> <p class="d-inline" id="phone">@Model.ToList()[0].User.PhoneNumber</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-8">
+            <div id="AllPosts" style="margin-top:20px">
+                @{await Html.RenderPartialAsync("PostedProfile", Model, ViewData);}
+            </div>
+        </div>
+    </div>
+</section>
+
+@*Post update*@
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="mod">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content" id="update">
+            ...
+            <div>aljshaknahknsdjflhksj,nf ksjdkfn skj,fn sk,mcn sdmn,bc snmdbc skdjm </div>
+        </div>
+    </div>
+</div>
+
+@*profile update*@
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pmod">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content" id="pupdate">
+            ...
+            <div>Profile update</div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" id="Lmodal">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div id="LikeDiv" class="row" style="padding:3%">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+

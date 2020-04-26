@@ -53,9 +53,17 @@ namespace MiniFacebook.Controllers
             p.PostDate = DateTime.Now;
             p.UserID = HttpContext.Session.GetString("ID");
             _Post.addPost(p);
-            var pts = _Post.LoadPosts(HttpContext.Session.GetString("ID"));
+            var friends = _Friends.getMyFriends(HttpContext.Session.GetString("ID")).ToList();
+            var posts = _Post.LoadPosts(HttpContext.Session.GetString("ID")).ToList();
+            List<Post> Allpost;
+            foreach (var item in friends)
+            {
+                Allpost = _Post.LoadPosts(item).ToList();
+                posts.AddRange(Allpost);
+                Allpost.Clear();
+            }
             ViewData["UID"] = HttpContext.Session.GetString("ID");
-            return PartialView("Posted", pts);
+            return PartialView("Posted", posts);
         }
         //LikePost => User Like a post => بديهيات
         public void LikePost(PostLike like)
@@ -131,5 +139,7 @@ namespace MiniFacebook.Controllers
             var likeComm = _CommentLike.getCommentLike(cid, HttpContext.Session.GetString("ID"));
             _CommentLike.removeCommentLike(likeComm);
         }
+
+       
     }
 }

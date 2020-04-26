@@ -193,7 +193,8 @@ namespace MiniFacebook.Controllers
 
             if (signInResult.Succeeded)
             {
-                
+                var id = db.Users.Where(u => u.Email == email).Select(u => u.Id).ToList()[0];
+                HttpContext.Session.SetString("ID", id);
                 return LocalRedirect(returnUrl);
             }
             // If there is no record in AspNetUserLogins table, the user may not have
