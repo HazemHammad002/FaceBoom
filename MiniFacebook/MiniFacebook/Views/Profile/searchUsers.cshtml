@@ -1,0 +1,22 @@
+﻿@model IEnumerable<User>
+@{
+    ViewData["Title"] = "searchUsers";
+}
+
+<h1 class="text-center mt-4 h2">Users</h1>
+<span class="border-bottom"></span>
+<table class="table table-bordered table-striped shadows mt-5">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">Name</th>
+        </tr>
+    </thead>
+    <tbody class="tbody table-active">
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td><a href="/profile/otherUser?uid=@item.Id">@item.FirstName @item.LastName</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

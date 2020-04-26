@@ -15,14 +15,14 @@ namespace MiniFacebook.Controllers
     [Authorize]
     public class ProfileController : Controller
     {
-        
+        ApplicationDbContext db;
         IPostRepo _Post;
         IFriendRepo _Friends;
         IPostLikeRepo _PostLikes;
         ICommentRepo _PostComments;
         ICommentLikeRepo _CommentLike;
         IUserRepo _User;
-        public ProfileController(ICommentLikeRepo CommentLike ,IUserRepo User , ICommentRepo PostComments, IPostRepo Post, IFriendRepo Friends, IPostLikeRepo PostLikes)
+        public ProfileController(ApplicationDbContext db,ICommentLikeRepo CommentLike ,IUserRepo User , ICommentRepo PostComments, IPostRepo Post, IFriendRepo Friends, IPostLikeRepo PostLikes)
         {
             _Post = Post;
             _Friends = Friends;
@@ -30,6 +30,7 @@ namespace MiniFacebook.Controllers
             _PostComments = PostComments;
             _CommentLike = CommentLike;
             _User = User;
+            this.db = db;
         }
         public IActionResult ProfilePage()
         {
@@ -144,5 +145,90 @@ namespace MiniFacebook.Controllers
             var likeComm = _CommentLike.getCommentLike(cid, HttpContext.Session.GetString("ID"));
             _CommentLike.removeCommentLike(likeComm);
         }
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
+        ///
+        public IActionResult otherUser(string uid)
+        {
+            var posts = _Post.LoadPosts(uid).ToList();
+            var isFriend = db.Friends.Where(f => f.UserID == uid && f.FriendID == HttpContext.Session.GetString("ID")).Select(f => f.State).ToList();
+            ViewData["UID"] = HttpContext.Session.GetString("ID");
+            ViewData["fID"] = uid;
+            ViewData["user"] = _User.getUser(uid).ProfilePic;
+            ViewData["isFriend"] = null;
+            if (isFriend.Count>0)
+            {
+                
+                ViewData["isFriend"] = isFriend[0];
+            }
+            return View(posts);
+        }
+        public IActionResult friendrequest(string fid)
+        {
+            Friend f = new Friend() { UserID=fid,FriendID= HttpContext.Session.GetString("ID") ,State=FriendState.SendFriendRequest};
+            db.Friends.Add(f);
+            db.SaveChanges();
+            string uid = fid;
+            var posts = _Post.LoadPosts(fid).ToList();
+            var isFriend = db.Friends.Where(f => f.UserID == uid && f.FriendID == HttpContext.Session.GetString("ID")).Select(f => f.State).ToList();
+            ViewData["UID"] = HttpContext.Session.GetString("ID");
+            ViewData["fID"] = uid;
+
+            ViewData["isFriend"] = null;
+            if (isFriend.Count > 0)
+            {
+
+                ViewData["isFriend"] = isFriend[0];
+            }
+            return View("otherUser",posts);
+        }
+        public IActionResult deletefriendrequest(string fid)
+        {
+            Friend f = db.Friends.Where(f=>f.UserID==fid &&f.FriendID== HttpContext.Session.GetString("ID")).ToList()[0];
+            db.Friends.Remove(f);
+            db.SaveChanges();
+            string uid = fid;
+            var posts = _Post.LoadPosts(fid).ToList();
+            var isFriend = db.Friends.Where(f => f.UserID == uid && f.FriendID == HttpContext.Session.GetString("ID")).Select(f => f.State).ToList();
+            ViewData["UID"] = HttpContext.Session.GetString("ID");
+            ViewData["fID"] = uid;
+
+            ViewData["isFriend"] = null;
+            if (isFriend.Count > 0)
+            {
+
+                ViewData["isFriend"] = isFriend[0];
+            }
+            return View("otherUser",posts);
+        }
+        public IActionResult deletefriend(string fid)
+        {
+            Friend f = db.Friends.Where(f=>f.UserID==fid &&f.FriendID== HttpContext.Session.GetString("ID")).ToList()[0];
+            Friend f2 = db.Friends.Where(f=>f.UserID== HttpContext.Session.GetString("ID") && f.FriendID== fid).ToList()[0];
+            db.Friends.Remove(f);
+            db.Friends.Remove(f2);
+            db.SaveChanges();
+            string uid = fid;
+            var posts = _Post.LoadPosts(fid).ToList();
+            var isFriend = db.Friends.Where(f => f.UserID == uid && f.FriendID == HttpContext.Session.GetString("ID")).Select(f => f.State).ToList();
+            ViewData["UID"] = HttpContext.Session.GetString("ID");
+            ViewData["fID"] = uid;
+
+            ViewData["isFriend"] = null;
+            if (isFriend.Count > 0)
+            {
+
+                ViewData["isFriend"] = isFriend[0];
+            }
+            return View("otherUser",posts);
+        }
+
+
+        [HttpPost]
+        public IActionResult searchUsers(string searchtxt)
+        {
+            var users = db.Users.Where(u => u.FirstName.Contains(searchtxt)).ToList();
+            return View(users);
+        }
+
     }
 }
