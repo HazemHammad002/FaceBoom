@@ -24,10 +24,6 @@ namespace MiniFacebook.Models.RepoClass
         public void updateProfile(User user)
         {
             var u = context.Users.Find(user.Id);
-            if (user.ProfilePic != null)
-            {
-                u.ProfilePic = user.ProfilePic;
-            }
             u.PhoneNumber = user.PhoneNumber;
             u.FirstName = user.FirstName;
             u.LastName = user.LastName;

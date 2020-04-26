@@ -11,11 +11,11 @@
     //after loading data send req to add the new post to Database
     $.ajax({
         method: "Post",
-        url: "addPost",
+        url: "/profile/addPost",
         data: { p: npost },
         success: function (data) {
             console.log(data);
-            $("#AllPosts").prepend(data);
+            $("#AllPosts").html(data);
             $("#content").val('');
             document.getElementById("file-input").value = "";
         }
@@ -92,7 +92,7 @@ function addComment(pid) {
 
     $.ajax({
         method: 'Post',
-        url: 'AddComment',
+        url: '/profile/AddComment',
         data: { c: comm },
         success: function (data) {
             console.log(data);
@@ -107,7 +107,7 @@ function showupdatePost(id) {
     console.log(id);
     $.ajax({
         method: 'post',
-        url: 'updatePost',
+        url: '/profile/updatePost',
         data: { pid: parseInt(id.substring(7)) },
         success: function (data) {
             console.log(data);
@@ -207,3 +207,15 @@ function showLikes(id) {
 }
 
 ////////////////////////////////////////////////////////////////////////
+function updateProfilePic(id) {
+    var img = document.getElementById(id).value.substring(11);
+    $.ajax({
+        method: 'post',
+        url: '/profile/updateProfilePic',
+        data: { newImg: img },
+        success: function () {
+            //document.getElementById('profileImg').src = '/Images/' + img;
+            window.location.reload();
+        }
+    });
+}

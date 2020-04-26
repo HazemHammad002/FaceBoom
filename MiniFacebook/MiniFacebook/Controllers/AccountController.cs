@@ -52,6 +52,7 @@ namespace MiniFacebook.Controllers
                         LastName=model.LastName,
                         UserName = model.Email,
                         Email = model.Email,
+                        UserState=UserState.notblocked,
                         BirthDate = new DateTime(model.Year, model.Month, model.Day),
                         Gender = model.Gender,
                         ProfilePic = "Male_avater.jpg"
@@ -61,13 +62,18 @@ namespace MiniFacebook.Controllers
                 {
                      user = new User
                     {
-                        UserName = model.Email,
+                         FirstName = model.FistName,
+                         LastName = model.LastName,
+                         UserName = model.Email,
                         Email = model.Email,
-                        BirthDate = new DateTime(model.Year, model.Month, model.Day),
+                         UserState = UserState.notblocked,
+                         BirthDate = new DateTime(model.Year, model.Month, model.Day),
                         Gender = model.Gender,
                         ProfilePic = "Female_avater.jpg"
                     };
                 }
+                await userManager.AddToRoleAsync(user,"User");
+
                 var result = await userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
@@ -152,7 +158,7 @@ namespace MiniFacebook.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> ExternalLoginCallback(string returnUrl = null, string remoteError = null)
         {
-            returnUrl = returnUrl ?? Url.Content("~/");
+            returnUrl = returnUrl ?? Url.Content("~/homepage/index");
 
             LoginViewModel loginViewModel = new LoginViewModel
             {
@@ -213,11 +219,12 @@ namespace MiniFacebook.Controllers
                             Email = info.Principal.FindFirstValue(ClaimTypes.Email),
                             BirthDate = Convert.ToDateTime(info.Principal.FindFirstValue(ClaimTypes.DateOfBirth)),
                         };
-                        
                         await userManager.CreateAsync(user);
+                        await userManager.AddToRoleAsync(user, "User");
                         var id = db.Users.Where(u => u.Email == user.Email).Select(u => u.Id).ToList()[0];
                         HttpContext.Session.SetString("ID", id);
                         user.EmailConfirmed = true;
+                        user.ProfilePic = "Male_avater.jpg";
                         //var token = await userManager.GenerateEmailConfirmationTokenAsync(user);
                         //var confirmationLink = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, token = token }, Request.Scheme);
                         ////Sending Comfirmation Mail To the User

@@ -3,7 +3,10 @@
 @{
     ViewData["Title"] = "ProfilePage";
 }
-
+@{
+    User u = new User();
+    u = (User)ViewData["user"];
+}
 
 <link href="~/css/HomePage.css" rel="stylesheet" />
 
@@ -12,31 +15,30 @@
         <div class="col-12 col-lg-4 mb-3 ">
             <div class="row text-center shadows p-3">
                 <div class="col-12 mb-2">
-                    <img class="img-fluid col-lg-12 col-6" id="profileImg" src="~/Images/@{@Model.ToList()[0].User.ProfilePic}" />
+                    <img class="img-fluid col-lg-12 col-6" id="profileImg" src="~/Images/@{@u.ProfilePic}" />
                     @*@Model.ToList()[0].User.ProfilePic*@
                 </div>
-                <div class="col-6 mb-2 col-lg-12 offset-3 offset-lg-0">
-                    <button class="btn text-left animated-button upld-btn">
-                        <i class="icon-margin fa fa-camera camera-icon"></i> Upload Picture
-                    </button>
+                <div class="col-6 mb-2 col-lg-12 offset-3 image-upload offset-lg-0" >
+                    <label for="img-input" ><i class="icon-margin fa fa-camera camera-icon"></i> Upload Picture</label>
+                    <input type="file" multiple id="img-input" onchange="updateProfilePic(this.id)">
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h2 id="fname" class="d-inline">@Model.ToList()[0].User.FirstName</h2> <h2 id="lname" class="d-inline">  @Model.ToList()[0].User.LastName</h2>
+                    <h2 id="fname" class="d-inline">@u.FirstName</h2> <h2 id="lname" class="d-inline">  @u.LastName</h2>
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h6 class="d-inline">Bio: </h6> <p class="d-inline" id="Bio">@Model.ToList()[0].User.Bio</p>
+                    <h6 class="d-inline">Bio: </h6> <p class="d-inline" id="Bio">@u.Bio</p>
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h6 class="d-inline">Birthdate:</h6> <p class="d-inline" id="bdate">@Model.ToList()[0].User.BirthDate</p>
+                    <h6 class="d-inline">Birthdate:</h6> <p class="d-inline" id="bdate">@u.BirthDate</p>
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h6 class="d-inline">Gender:</h6> <p class="d-inline">@Model.ToList()[0].User.Gender</p>
+                    <h6 class="d-inline">Gender:</h6> <p class="d-inline">@u.Gender</p>
                 </div>
                 <div class="col-12 text-left-cus mb-2">
-                    <h6 class="d-inline">Phone:</h6> <p class="d-inline" id="phone">@Model.ToList()[0].User.PhoneNumber</p>
+                    <h6 class="d-inline">Phone:</h6> <p class="d-inline" id="phone">@u.PhoneNumber</p>
                 </div>
                 <div class="col-12 mb-2">
-                    <button class="btn animated-button upld-btn-sm upld-btn" onclick="showupdateProfile('@Model.ToList()[0].User.Id')">Update Info</button>
+                    <button class="btn animated-button upld-btn-sm upld-btn" onclick="showupdateProfile('@u.Id')">Update Info</button>
                 </div>
 
                 <div class="card shadows col-6 offset-3 offset-lg-0 col-lg-12 mb-3">
@@ -54,7 +56,7 @@
                                         <img src="~/Images/@item.ProfilePic" class="img-fluid circle" />
                                     </div>
                                     <div class="col-8">
-                                        <a href="#" class="usr-name"><h6>@item.FirstName @item.LastName</h6></a>
+                                        <a href="/profile/otheruser?uid=@item.Id" class="usr-name"><h6>@item.FirstName @item.LastName</h6></a>
                                     </div>
                                 </div>
                             }
@@ -76,9 +78,11 @@
                                         <img src="~/Images/@item.ProfilePic" class="img-fluid circle" />
                                     </div>
                                     <div class="col-8">
-                                        <a href="#" class="usr-name"><h6>@item.FirstName @item.LastName</h6></a>
+                                        <a href="/profile/otheruser?uid=@item.Id" class="usr-name"><h6>@item.FirstName @item.LastName</h6></a>
+                                        <a class="btn btn-light" href="/profile/approverequest?fid=@item.Id">Approve</a>
                                     </div>
                                 </div>
+                                <hr />
                             }
                         </div>
                     </div>

@@ -149,11 +149,13 @@ namespace MiniFacebook.Controllers
         ///
         public IActionResult otherUser(string uid)
         {
+            if (uid == HttpContext.Session.GetString("ID"))
+                return RedirectToAction("profilepage");
             var posts = _Post.LoadPosts(uid).ToList();
             var isFriend = db.Friends.Where(f => f.UserID == uid && f.FriendID == HttpContext.Session.GetString("ID")).Select(f => f.State).ToList();
             ViewData["UID"] = HttpContext.Session.GetString("ID");
             ViewData["fID"] = uid;
-            ViewData["user"] = _User.getUser(uid).ProfilePic;
+            ViewData["user"] = _User.getUser(uid);
             ViewData["isFriend"] = null;
             if (isFriend.Count>0)
             {
@@ -172,6 +174,7 @@ namespace MiniFacebook.Controllers
             var isFriend = db.Friends.Where(f => f.UserID == uid && f.FriendID == HttpContext.Session.GetString("ID")).Select(f => f.State).ToList();
             ViewData["UID"] = HttpContext.Session.GetString("ID");
             ViewData["fID"] = uid;
+            ViewData["user"] = _User.getUser(uid);
 
             ViewData["isFriend"] = null;
             if (isFriend.Count > 0)
@@ -191,6 +194,7 @@ namespace MiniFacebook.Controllers
             var isFriend = db.Friends.Where(f => f.UserID == uid && f.FriendID == HttpContext.Session.GetString("ID")).Select(f => f.State).ToList();
             ViewData["UID"] = HttpContext.Session.GetString("ID");
             ViewData["fID"] = uid;
+            ViewData["user"] = _User.getUser(uid);
 
             ViewData["isFriend"] = null;
             if (isFriend.Count > 0)
@@ -212,6 +216,7 @@ namespace MiniFacebook.Controllers
             var isFriend = db.Friends.Where(f => f.UserID == uid && f.FriendID == HttpContext.Session.GetString("ID")).Select(f => f.State).ToList();
             ViewData["UID"] = HttpContext.Session.GetString("ID");
             ViewData["fID"] = uid;
+            ViewData["user"] = _User.getUser(uid);
 
             ViewData["isFriend"] = null;
             if (isFriend.Count > 0)
@@ -226,8 +231,29 @@ namespace MiniFacebook.Controllers
         [HttpPost]
         public IActionResult searchUsers(string searchtxt)
         {
-            var users = db.Users.Where(u => u.FirstName.Contains(searchtxt)).ToList();
+            var users = db.Users.Where(u => u.FirstName.Contains(searchtxt) && u.UserState==UserState.notblocked).ToList();
             return View(users);
+        }
+
+        public IActionResult approveRequest(string fid)
+        {
+            var req = db.Friends.Where(r => r.UserID == HttpContext.Session.GetString("ID") && r.FriendID == fid && r.State == FriendState.SendFriendRequest).ToList()[0];
+            req.State = FriendState.Friend;
+            Friend f = new Friend()
+            {
+                UserID=req.FriendID,
+                FriendID=req.UserID,
+                State=req.State
+            };
+            db.Friends.Add(f);
+            db.SaveChanges();
+            return RedirectToAction("ProfilePage");
+        }
+        public void updateProfilePic(string newImg)
+        {
+            var user = _User.getUser(HttpContext.Session.GetString("ID"));
+            user.ProfilePic = newImg;
+            db.SaveChanges();
         }
 
     }

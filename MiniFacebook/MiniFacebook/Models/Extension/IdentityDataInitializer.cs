@@ -14,6 +14,7 @@ namespace MiniFacebook.Extension
         {
             seedAdminRole(roleManager);
             seedAdminUser(userManager);
+            seedUserRole(roleManager);
         }
         public static void seedAdminRole(RoleManager<Role> roleManager)
         {
@@ -27,31 +28,44 @@ namespace MiniFacebook.Extension
                 };
                 IdentityResult roleResult = roleManager.CreateAsync(role).Result;
             }
+        } 
+        public static void seedUserRole(RoleManager<Role> roleManager)
+        {
+            if (!roleManager.RoleExistsAsync("User").Result)
+            {
+                Role role = new Role
+                {
+                    Id = "2",
+                    Name = "User",
+                    Description = "Normal user"
+                };
+                IdentityResult roleResult = roleManager.CreateAsync(role).Result;
+            }
         }
         public static  void seedAdminUser(UserManager<User> userManager)
         {
-            //if ( userManager.FindByEmailAsync("admin@admin.com").Result == null)
-            //{
-            //    User user = new User
-            //    {
-            //        Id = "1",
-            //        UserName= "admin@admin.com",
-            //        Email = "admin@admin.com",
-            //        EmailConfirmed = true,
-            //        Gender = 0,
-            //        BirthDate = new DateTime(1995, 1, 1),
-            //        PhoneNumberConfirmed=false,
-            //        TwoFactorEnabled=false,
-            //        LockoutEnabled=false,
-            //        AccessFailedCount=0
-                   
-            //    };
-            //    IdentityResult result = userManager.CreateAsync(user, "Admin123").Result;
-            //    if (result.Succeeded)
-            //    {
-            //        userManager.AddToRoleAsync(user, "Admin").Wait();
-            //    }
-            //}
+            if (userManager.FindByEmailAsync("admin@admin.com").Result == null)
+            {
+                User user = new User
+                {
+                    Id = "1",
+                    UserName = "admin@admin.com",
+                    Email = "admin@admin.com",
+                    EmailConfirmed = true,
+                    Gender = 0,
+                    BirthDate = new DateTime(1995, 1, 1),
+                    PhoneNumberConfirmed = false,
+                    TwoFactorEnabled = false,
+                    LockoutEnabled = false,
+                    AccessFailedCount = 0
+
+                };
+                IdentityResult result = userManager.CreateAsync(user, "Admin123").Result;
+                if (result.Succeeded)
+                {
+                    userManager.AddToRoleAsync(user, "Admin").Wait();
+                }
+            }
         }
     }
 }
